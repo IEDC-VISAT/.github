@@ -89,8 +89,8 @@ We welcome contributors from all backgrounds — beginners to advanced.
 ---
 
 ## 📬 Contact
-📧 **Email:** iedc@vsat.edu *(replace when final email is ready)*  
-🌐 **Website:** Coming soon… (GitHub Pages / VSAT domain)
+📧 **Email:** iedcvisat25@gmail.com
+🌐 **Website:** https://iedcvisat.vercel.app/
 
 For collaborations, partnerships, or events — feel free to reach out.
 
